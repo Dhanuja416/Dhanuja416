@@ -42,7 +42,6 @@
 ---
 
 ## Featured projects
-> Pick 3–6 projects you’re proud of and keep descriptions simple + factual.
 
 - 🔹 **ExpenZ AI (next-Expenz)** — AI-powered personal finance tracker with expense categorization + analytics dashboard (Next.js, TS, Prisma, PostgreSQL/Neon, Clerk, Chart.js)  
   Repo: https://github.com/Dhanuja416/next-Expenz | Live: https://next-expenz.vercel.app/
